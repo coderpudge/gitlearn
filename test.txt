@@ -3,3 +3,4 @@ add 2
 Add 3 M
 Add 5 PC
 Add 6 PC
+Add 7 PC
